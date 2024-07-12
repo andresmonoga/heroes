@@ -1,0 +1,627 @@
+{
+	"knownSymbols": {
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"environments": [
+			{
+				"name": "environments",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\environments\\environments.prod.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"SharedModule": [
+			{
+				"name": "SharedModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\shared\\shared.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"MaterialModule": [
+			{
+				"name": "MaterialModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\material\\material.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"MatAutocompleteModule": [
+			{
+				"name": "MatAutocompleteModule",
+				"module": "@angular/material/autocomplete",
+				"isDefault": false
+			}
+		],
+		"MatButtonModule": [
+			{
+				"name": "MatButtonModule",
+				"module": "@angular/material/button",
+				"isDefault": false
+			}
+		],
+		"MatCardModule": [
+			{
+				"name": "MatCardModule",
+				"module": "@angular/material/card",
+				"isDefault": false
+			}
+		],
+		"MatChipsModule": [
+			{
+				"name": "MatChipsModule",
+				"module": "@angular/material/chips",
+				"isDefault": false
+			}
+		],
+		"MatDialogModule": [
+			{
+				"name": "MatDialogModule",
+				"module": "@angular/material/dialog",
+				"isDefault": false
+			}
+		],
+		"MatFormFieldModule": [
+			{
+				"name": "MatFormFieldModule",
+				"module": "@angular/material/form-field",
+				"isDefault": false
+			}
+		],
+		"MatGridListModule": [
+			{
+				"name": "MatGridListModule",
+				"module": "@angular/material/grid-list",
+				"isDefault": false
+			}
+		],
+		"MatIconModule": [
+			{
+				"name": "MatIconModule",
+				"module": "@angular/material/icon",
+				"isDefault": false
+			}
+		],
+		"MatInputModule": [
+			{
+				"name": "MatInputModule",
+				"module": "@angular/material/input",
+				"isDefault": false
+			}
+		],
+		"MatListModule": [
+			{
+				"name": "MatListModule",
+				"module": "@angular/material/list",
+				"isDefault": false
+			}
+		],
+		"MatProgressSpinnerModule": [
+			{
+				"name": "MatProgressSpinnerModule",
+				"module": "@angular/material/progress-spinner",
+				"isDefault": false
+			}
+		],
+		"MatSelectModule": [
+			{
+				"name": "MatSelectModule",
+				"module": "@angular/material/select",
+				"isDefault": false
+			}
+		],
+		"MatSidenavModule": [
+			{
+				"name": "MatSidenavModule",
+				"module": "@angular/material/sidenav",
+				"isDefault": false
+			}
+		],
+		"MatSnackBarModule": [
+			{
+				"name": "MatSnackBarModule",
+				"module": "@angular/material/snack-bar",
+				"isDefault": false
+			}
+		],
+		"MatToolbarModule": [
+			{
+				"name": "MatToolbarModule",
+				"module": "@angular/material/toolbar",
+				"isDefault": false
+			}
+		],
+		"HeroesService": [
+			{
+				"name": "HeroesService",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\services\\heroes.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Injectable": [
+			{
+				"name": "Injectable",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"HttpClient": [
+			{
+				"name": "HttpClient",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"Observable": [
+			{
+				"name": "Observable",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"catchError": [
+			{
+				"name": "catchError",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"map": [
+			{
+				"name": "map",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"of": [
+			{
+				"name": "of",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"AuthService": [
+			{
+				"name": "AuthService",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\services\\auth.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"tap": [
+			{
+				"name": "tap",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"User": [
+			{
+				"name": "User",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\interfaces\\user.interface.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"LogingPageComponent": [
+			{
+				"name": "LogingPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\pages\\loging-page\\loging-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Router": [
+			{
+				"name": "Router",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"RegisterPageComponent": [
+			{
+				"name": "RegisterPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\pages\\register-page\\register-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Error404PageComponent": [
+			{
+				"name": "Error404PageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\shared\\pages\\error404-page\\error404-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AuthModule": [
+			{
+				"name": "AuthModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\auth.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"CommonModule": [
+			{
+				"name": "CommonModule",
+				"module": "@angular/common",
+				"isDefault": false
+			}
+		],
+		"AuthRoutingModule": [
+			{
+				"name": "AuthRoutingModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\auth-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"LayoutComponent": [
+			{
+				"name": "LayoutComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\pages\\layout-page\\layout.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HeroImagePipe": [
+			{
+				"name": "HeroImagePipe",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pipes\\hero-image.pipe.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Pipe": [
+			{
+				"name": "Pipe",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"PipeTransform": [
+			{
+				"name": "PipeTransform",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"ActivatedRouteSnapshot": [
+			{
+				"name": "ActivatedRouteSnapshot",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"CanActivate": [
+			{
+				"name": "CanActivate",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"CanMatch": [
+			{
+				"name": "CanMatch",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"Route": [
+			{
+				"name": "Route",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"UrlSegment": [
+			{
+				"name": "UrlSegment",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"RouterStateSnapshot": [
+			{
+				"name": "RouterStateSnapshot",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"HeroesModule": [
+			{
+				"name": "HeroesModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\heroes.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ReactiveFormsModule": [
+			{
+				"name": "ReactiveFormsModule",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"HeroesRoutingModule": [
+			{
+				"name": "HeroesRoutingModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\heroes-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"provideAnimationsAsync": [
+			{
+				"name": "provideAnimationsAsync",
+				"module": "@angular/platform-browser/animations/async",
+				"isDefault": false
+			}
+		],
+		"HttpClientModule": [
+			{
+				"name": "HttpClientModule",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"RouterTestingModule": [
+			{
+				"name": "RouterTestingModule",
+				"module": "@angular/router/testing",
+				"isDefault": false
+			}
+		],
+		"AppRoutingModule": [
+			{
+				"name": "AppRoutingModule",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Hero": [
+			{
+				"name": "Hero",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\interfaces\\heroes.interface.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"Publisher": [
+			{
+				"name": "Publisher",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\interfaces\\heroes.interface.ts",
+				"type": "enum",
+				"isDefault": false
+			}
+		],
+		"ListPageComponent": [
+			{
+				"name": "ListPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\list-page\\list-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"OnInit": [
+			{
+				"name": "OnInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"SearchPageComponent": [
+			{
+				"name": "SearchPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\search-page\\search-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"FormControl": [
+			{
+				"name": "FormControl",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"MatAutocompleteSelectedEvent": [
+			{
+				"name": "MatAutocompleteSelectedEvent",
+				"module": "@angular/material/autocomplete",
+				"isDefault": false
+			}
+		],
+		"LayoutPageComponent": [
+			{
+				"name": "LayoutPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\layout-page\\layout-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ConfirmDialogComponent": [
+			{
+				"name": "ConfirmDialogComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\components\\confirm-dialog\\confirm-dialog.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Inject": [
+			{
+				"name": "Inject",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"MAT_DIALOG_DATA": [
+			{
+				"name": "MAT_DIALOG_DATA",
+				"module": "@angular/material/dialog",
+				"isDefault": false
+			}
+		],
+		"MatDialogRef": [
+			{
+				"name": "MatDialogRef",
+				"module": "@angular/material/dialog",
+				"isDefault": false
+			}
+		],
+		"NewPageComponent": [
+			{
+				"name": "NewPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\new-page\\new-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"FormGroup": [
+			{
+				"name": "FormGroup",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"ActivatedRoute": [
+			{
+				"name": "ActivatedRoute",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"filter": [
+			{
+				"name": "filter",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"switchMap": [
+			{
+				"name": "switchMap",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"MatSnackBar": [
+			{
+				"name": "MatSnackBar",
+				"module": "@angular/material/snack-bar",
+				"isDefault": false
+			}
+		],
+		"MatDialog": [
+			{
+				"name": "MatDialog",
+				"module": "@angular/material/dialog",
+				"isDefault": false
+			}
+		],
+		"HeroPageComponent": [
+			{
+				"name": "HeroPageComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\hero-page\\hero-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"delay": [
+			{
+				"name": "delay",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"CardComponent": [
+			{
+				"name": "CardComponent",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\components\\card\\card.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Input": [
+			{
+				"name": "Input",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"AuthGuard": [
+			{
+				"name": "AuthGuard",
+				"path": "c:\\Users\\LENOVO\\OneDrive\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\guards\\auth.guard.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		]
+	}
+}
